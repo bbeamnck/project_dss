@@ -1,0 +1,52 @@
+
+body{
+    background-image:url('http://tonkit360.com/wp-content/uploads/2018/12/1514968024.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; background-attachment: fixed;
+    font-family:Waffle Light;
+    font-size:30px; 
+    font-weight: bold;
+    color:white; 
+}
+.tx20px{
+    font-size:25px;
+    font-weight: bold;
+}
+.tx30px {
+    font-size:30px;
+}
+.whitewhite {
+    color: white;
+}
+.custom-select{
+    font-size: 20px;
+    font-weight: bold;
+}
+.dataTables_filter{
+    float: right;
+}
+input.form-control{
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.fonteiei{
+    font-size: 50px;
+}
+.btn-lg{
+    margin-left: 45%;
+}
+.card{
+    font-family:Waffle Light;
+    font-size:30px; 
+    font-weight: bold;
+}
+.boldei{
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+}
+ิ.bg-secondary {
+    background-color: #dbffe3 !important;
+}
+
