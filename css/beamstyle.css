@@ -1,9 +1,13 @@
 
+@font-face {
+    font-family: "Waffle";
+    src: url(Waffle.otf);
+}
 body{
     background-image:url('http://tonkit360.com/wp-content/uploads/2018/12/1514968024.jpg');
     background-repeat: no-repeat;
     background-size: cover; background-attachment: fixed;
-    font-family:Waffle Light;
+    font-family:Waffle;
     font-size:30px; 
     font-weight: bold;
     color:white; 
@@ -37,7 +41,7 @@ input.form-control{
     margin-left: 45%;
 }
 .card{
-    font-family:Waffle Light;
+    font-family:Waffle;
     font-size:30px; 
     font-weight: bold;
 }
